@@ -1,0 +1,33 @@
+ h1{
+  text-align: center;
+  color: #000000;
+  background-color: #ffa3e2;
+
+}
+.menu{
+  float:left;
+  width:234%;
+  text-align:center;
+}
+.menu a{
+  background-color:#f953c4;
+  padding: 6px;
+margin-top: 7px ;
+  display: block;
+  width: 10%;
+  color:#000000
+}
+
+.texto{
+  margin-left:25% ;
+  margin-right:25%;
+  text-align: center;
+  color: #000000;
+  background-color: #fb83cf;
+}
+img{
+  margin-left:2% ;
+  margin-right:15%;
+  
+}
+
